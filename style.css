@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(205, 240, 205, 0.562);
+}
+
+a {
+    color: red;
+}
+
+li.first {
+    color: purple;
+    font-weight: bold;
+    font-size: larger;
+}
+
+body.congee {
+    background-color: rgb(247, 247, 177);
+}
+
+.congee img {
+    height: 300px;
+    width: auto;
+}
+
+h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
